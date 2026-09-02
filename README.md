@@ -17,18 +17,17 @@ I'm security-conscious and have a solid understanding of cybersecurity principle
 
 **Languages**
 
-* Java
-* Python
+* React
 * JavaScript
 * HTML
 * CSS
+* Tailwind CSS
 
 **Tools & Technologies**
 
 * Git & GitHub
 * Linux
 * VS Code
-* Postman
 * MySQL
 
 **Currently Exploring**
